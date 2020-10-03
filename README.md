@@ -14,7 +14,7 @@
 *Understand how the machine learning project cycle works where the deployment plays a crucial part.*
 
 ### PROJECT AIM
-*Prices of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.*
+*Price of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.*
 
 ### TECHNOLOGIES USED
 <img target="_blank" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
