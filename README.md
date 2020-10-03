@@ -1,12 +1,13 @@
 <!-- banner  -->
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/Flight%20Price%20predictor.gif" width="1600" height="350">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/Flight%20Price%20predictor.gif" width="1600" height="300">
 
 ### PROJECT OVERVIEW
 *A machine learning web app that predicts the price of the flight based on several features. The application is built using Flask and deployed on Heroku platform.*
 *The model is built using Random forest regressor with a R2 score of 81.38% after going through Hyper Parameter tuning(RandomizedSearchCV).*
 ### DEMO:
 <img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/Demo.gif" width="1600" height="600">
-
+### LINK:
+[https://ml-flight-price-prediction.herokuapp.com/](https://ml-flight-price-prediction.herokuapp.com/)
 ### PROJECT AIM
 *Prices of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.*
 
