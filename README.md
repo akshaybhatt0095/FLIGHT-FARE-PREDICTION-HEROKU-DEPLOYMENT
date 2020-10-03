@@ -11,7 +11,7 @@
 (https://ml-flight-price-prediction.herokuapp.com/)
 
 ### MOTIVATION 
-*Understand how the machine learning project cycle works where the deployment plays a crucial part.*
+*Understand how the machine learning project cycle works with deployment playing a crucial part.*
 
 ### PROJECT AIM
 *Price of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.*
