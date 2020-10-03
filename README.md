@@ -45,12 +45,12 @@
 ### PROJECT WORKFLOW
 * PROBLEM DEFINITION
 * DATA LOADING 
-* [DATA PRE-PROCESSING](### DATA PRE-PROCESSING)
-* [FEATURE EXTRACTION](### FEATURE EXTRACTION)
-* [EXPLORATORY DATA ANALYSIS](### EXPLORATORY DATA ANALYSIS)
-* [DATA ENCODING](### DATA ENCODING)
-* [FEATURE SELECTION](### FEATURE SELECTION )
-* [MODEL SELECTION](### MODEL SELECTION )
+*[DATA PRE-PROCESSING](### DATA PRE-PROCESSING)
+*[FEATURE EXTRACTION](### FEATURE EXTRACTION)
+*[EXPLORATORY DATA ANALYSIS](### EXPLORATORY DATA ANALYSIS)
+*[DATA ENCODING](### DATA ENCODING)
+*[FEATURE SELECTION](### FEATURE SELECTION )
+*[MODEL SELECTION](### MODEL SELECTION )
 * HYPERPARAMETER TUNING
 * CREATE A PICKLE FILE
 * BUILD A FLASK APP
@@ -111,8 +111,8 @@
 
 ### DATA ENCODING
 *As the machine learning model can only read numerical values we need to encode categorical features into numerical values.*
-Nominal data - One hot encoder is used 
-Ordinal data - LabelEncoder is used 
+*Nominal data - One hot encoder is used 
+*Ordinal data - LabelEncoder is used 
 
 ### FEATURE SELECTION 
 *Feature Selection is the process where you automatically or manually select those features which contribute most to your prediction variable or output in which you are interested in. Feature selection reduces overfitting, improves accuracy and reduces training time. 3 important techniques of feature selection are:*
