@@ -86,26 +86,26 @@
 ### EXPLORATORY DATA ANALYSIS
 
 * PRICE v/s AIRLINE
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(389).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(389).png" width="1000" height="500">
 
 * AIRLINE COUNT
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(390).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(390).png" width="1000" height="500">
 
 * MONTHLY FLIGHT COUNT
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(391).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(391).png" width="1000" height="500">
 
 * SOURCE v/s PRICE
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(398).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(398).png" width="1000" height="500">
 
 * DESTINATION v/s PRICE
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(399).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(399).png" width="1000" height="500">
 
 * MONTH v/s PRICE 
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(400).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(400).png" width="1000" height="500">
 
 * DEPARTURE AND ARRIVAL CATEGORY 
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(401).png" width="1600" height="500">
-<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(402).png" width="1600" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(401).png" width="1000" height="500">
+<img src="https://github.com/akshaybhatt0095/FLIGHT-FARE-PREDICTION-HEROKU-DEPLOYMENT/blob/master/EDA/Screenshot%20(402).png" width="1000" height="500">
 
 
 
